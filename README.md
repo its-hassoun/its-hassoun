@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour je suis Oussema Fraj</h1>
-<h3 align="center">Étudiant en 2e année d'ingénierie informatique : technologies web et multimédia</h3>
+<h3 align="center">Étudiant en 2e année d'ingénierie informatique : technologies web et multimédia At **ISIMS </h3>
 
-- 📫 Comment me joindre **fredjoussama9@gmail.com**
+- 📫 How to reach me : **fredjoussama9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
